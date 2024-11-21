@@ -1,4 +1,4 @@
-# Google OAuth example in SvelteKit
+# Google OAuth example in Next.js
 
 Uses SQLite. Rate limiting is implemented using JavaScript `Map`.
 
